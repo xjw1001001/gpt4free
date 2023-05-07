@@ -1,0 +1,6 @@
+| [task no] | [person 1] | [person 2] | [assoc_code] | [assoc_chn] | [positive/negative relationship] | [reasoning] |
+| -- | -- | -- | -- | -- | -- | -- |
+| 51 | 方壬 | 朱熹 | 0202; 0203; 0206 | 師生關係; 學術交往; 學術襄助 | positive | 方壬 was appointed by 朱熹 to be in charge of the school, and they worked together on academic matters |
+| 52 | 方禾 | 朱熹 | 0202; 0203 | 師生關係; 學術交往 | positive | 方禾 was a student of 朱熹 and admired his teachings |
+| 53 | 方回 | 贾似道 | 0407 | 政治對抗 | negative | 方回 initially supported 贾似道, but later turned against him and accused him of wrongdoing |
+| 54 | 方耒 | 张栻 | 0402; 0406 | 官場關係（平級）; 薦舉保任 | positive | 张栻 highly appreciated 方耒 and recommended him for a position in the government |

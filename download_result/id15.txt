@@ -1,0 +1,17 @@
+| [task no] | [person 1] | [person 2] | [assoc_code] | [assoc_chn] | [positive/negative relationship] | [reasoning] |
+| -- | -- | -- | -- | -- | -- | -- |
+| 12 | ¶¡êÜ | Éñ×Ú | 0501 | ÖøÊöêP‚S£¨»\½y£© | positive | ¶¡êÜ was commanded by Éñ×Ú to paint with others |
+| 12 | ¶¡êÜ | ´Ş°× | 0207 | ÎÄŒWË‡Ğg½»Íù | positive | ¶¡êÜ and ´Ş°× were both commanded by Éñ×Ú to paint together |
+| 12 | ¶¡êÜ | °¬Ğû | 0207 | ÎÄŒWË‡Ğg½»Íù | positive | ¶¡êÜ and °¬Ğû were both commanded by Éñ×Ú to paint together |
+| 12 | ¶¡êÜ | ¸ğÊØ²ı | 0207 | ÎÄŒWË‡Ğg½»Íù | positive | ¶¡êÜ and ¸ğÊØ²ı were both commanded by Éñ×Ú to paint together |
+| 13 | ¶¡Î½ | ËïºÎ | 0103 | Éç•ş½»ëH | positive | ¶¡Î½ and ËïºÎ were known as Ëï¶¡, indicating a close relationship |
+| 13 | ¶¡Î½ | Õæ×Ú | 0404 | ¹ÙˆöêP‚S£¨ÉÏË¾£© | negative | ¶¡Î½ was involved in Õæ×Ú's court, but later accused of deceiving him |
+| 13 | ¶¡Î½ | ÍõÇÕÈô | 0402 | ¹ÙˆöêP‚S£¨Æ½¼‰£© | positive | ¶¡Î½ and ÍõÇÕÈô worked together on Õæ×Ú's court projects |
+| 13 | ¶¡Î½ | ¿Ü×¼ | 0407 | ÕşÖÎŒ¦¿¹ | negative | ¶¡Î½ opposed ¿Ü×¼ and eventually caused his dismissal |
+| 13 | ¶¡Î½ | ÈÊ×Ú | 0404 | ¹ÙˆöêP‚S£¨ÉÏË¾£© | negative | ÈÊ×Ú knew about ¶¡Î½'s deception and demoted him |
+| 14 | ¶¡ïÄ | Â½¾ÅÔ¨ | 0301 | ÅóÓÑêP‚S£¨»\½y£© | positive | ¶¡ïÄ and Â½¾ÅÔ¨ were friends |
+| 14 | ¶¡ïÄ | Öììä | 0203; 0206 | ŒWĞg½»Íù; ŒWĞgÏåÖú | positive | ¶¡ïÄ and Öììä discussed and exchanged ideas on learning |
+| 15 | ¶¡ë\ | Àî¶¨ | 0403 | ¹ÙˆöêP‚S£¨ÏÂŒÙ£© | negative | ¶¡ë\ was invited by Àî¶¨ but declined due to illness |
+| 15 | ¶¡ë\ | ËÕéø | 0103 | Éç•ş½»ëH | positive | ËÕéø recommended ¶¡ë\ for a position |
+| 15 | ¶¡ë\ | ÔøÕØ | 0103 | Éç•ş½»ëH | positive | ÔøÕØ recommended ¶¡ë\ for a position |
+| 15 | ¶¡ë\ | ¿×ÎÄÖÙ | 0103 | Éç•ş½»ëH | positive | ¿×ÎÄÖÙ recommended ¶¡ë\ for a position |

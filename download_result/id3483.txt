@@ -1,0 +1,7 @@
+| [task no] | [person 1] | [person 2] | [assoc_code] | [assoc_chn] | [positive/negative relationship] | [reasoning] |
+| -- | -- | -- | -- | -- | -- | -- |
+| 3480 | 葛潀 | 胡铨 | 0202; 0203 | 師生關係; 學術交往 | positive | 胡铨 and 周必大 both invited 葛潀 to their homes for academic purposes |
+| 3480 | 葛潀 | 周必大 | 0202; 0203 | 師生關係; 學術交往 | positive | 胡铨 and 周必大 both invited 葛潀 to their homes for academic purposes |
+| 3481 | 葛延之 | 苏轼 | 0202; 0203 | 師生關係; 學術交往 | positive | 葛延之 visited 苏轼 and stayed for a month, learning from him |
+| 3482 | 葛绍体 | 叶适 | 0202 | 師生關係 | positive | 葛绍体 was a student of 叶适 |
+| 3483 | 葛胜仲 | 朱勔 | 0407 | 政治對抗 | negative | 朱勔 criticized 葛胜仲, leading to his dismissal from office |

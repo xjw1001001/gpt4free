@@ -1,0 +1,9 @@
+| [task no] | [person 1] | [person 2] | [assoc_code] | [assoc_chn] | [positive/negative relationship] | [reasoning] |
+| -- | -- | -- | -- | -- | -- | -- |
+| 18 | 丁仲修 | 方腊 | 0603 | 軍事對抗 | negative | 丁仲修帅乡兵御诸乐湾，力屈而死 |
+| 19 | 丁希亮 | 叶适 | 0202; 0203; 0206 | 師生關係; 學術交往; 學術襄助 | positive | 从叶适学 |
+| 19 | 丁希亮 | 陈亮 | 0203; 0206 | 學術交往; 學術襄助 | positive | 从陈亮游 |
+| 19 | 丁希亮 | 吕祖谦 | 0203; 0206 | 學術交往; 學術襄助 | positive | 从吕祖谦游 |
+| 20 | 丁伯桂 | 李宗勉 | 0402; 0406 | 官場關係（平級）; 薦舉保任 | positive | 端平中与李宗勉同除监察御史 |
+| 20 | 丁伯桂 | 余天锡 | 0407 | 政治對抗 | negative | 方论驳余天锡召命而卒 |
+| 23 | 丁娄明 | 黄公度 | 0204; 0406 | 學術主題相近; 薦舉保任 | positive | 绍兴八年黄公度榜同进士出身 |

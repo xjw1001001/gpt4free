@@ -1,0 +1,6 @@
+| task no | person 1 | person 2 | assoc_code | assoc_chn | positive/negative relationship | reasoning |
+| -- | -- | -- | -- | -- | -- | -- |
+| 2299 | 郭忠绍 | 仁宗 | 0404 | 官場關係（上司） | positive | 仁宗怜之，赐今名官之 |
+| 2300 | 郭忠顺 | 张九成 | 0203; 0301 | 学術交往; 朋友關係（籠統） | positive | 张九成谓其博学强记，尝与之游 |
+| 2301 | 郭忠嗣 | 仁宗 | 0404 | 官場關係（上司） | positive | 仁宗怜之，赐名并官之 |
+| 2302 | 郭叔云 | 朱熹 | 0202; 0203 | 師生關係; 学術交往 | positive | 初见朱熹，求格致之要，又质礼经所疑二十馀条 |

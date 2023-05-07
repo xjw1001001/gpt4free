@@ -1,0 +1,10 @@
+| [task no] | [person 1] | [person 2] | [assoc_code] | [assoc_chn] | [positive/negative relationship] | [reasoning] |
+| -- | -- | -- | -- | -- | -- | -- |
+| 2 | 丁中 | 徐鹿卿 | 0103; 0301 | 社會交際; 朋友關係（籠統） | positive | They are described as friends (为友) |
+| 2 | 丁中 | 吴澄 | 0103; 0301 | 社會交際; 朋友關係（籠統） | positive | They are described as friends (为友) |
+| 5 | 丁木 | 叶适 | 0202; 0203 | 師生關係; 學術交往 | positive | 丁木 studied under 叶适 (从叶适游) |
+| 5 | 丁木 | 方来 | 0204 | 學術主題相近 | positive | 方来 is described as a student who came to learn from 丁木 (四方来从学者) |
+| 5 | 丁木 | 松山先生 | 0101 | 社會關係（籠統） | positive | 松山先生 is another name for 丁木, so they are the same person |
+| 6 | 丁罕 | 李继迁 | 0603 | 軍事對抗 | negative | 丁罕 defeated 李继迁 in battle (破李继迁有殊功) |
+| 7 | 丁克 | 朱熹 | 0202; 0203 | 師生關係; 學術交往 | positive | 丁克 studied under 朱熹 (从学于朱熹) |
+| 7 | 丁克 | 黄榦 | 0103; 0502 | 社會交際; 記詠文字 | positive | 黄榦 wrote a eulogy for 丁克 after his death (黄榦祭之曰) |

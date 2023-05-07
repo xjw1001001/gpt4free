@@ -1,0 +1,8 @@
+| [task no] | [person 1] | [person 2] | [assoc_code] | [assoc_chn] | [positive/negative relationship] | [reasoning] |
+| -- | -- | -- | -- | -- | -- | -- |
+| 1173 | 吴辅 | 真德秀 | 0403; 0701 | 官場關係（下屬）; 醫療關係（籠統） | positive | 吴辅督军饷，赈民饥，真德秀甚器之 |
+| 1174 | 吴箕 | 陆九渊 | 0203; 0204 | 學術交往; 學術主題相近 | positive | 与陆九渊诸人讲明义理 |
+| 1174 | 吴箕 | 赵汝愚 | 0206 | 學術襄助 | positive | 编类成听词类稿十二册，为赵汝愚所重 |
+| 1175 | 吴榘 | 杨简 | 0203 | 學術交往 | positive | 从杨简游 |
+| 1175 | 吴榘 | 袁燮 | 0203 | 學術交往 | positive | 从袁燮游 |
+| 1176 | 吴戭 | 孙沔 | 0402 | 官場關係（平級） | positive | 郡守孙沔奏以教授州学 |

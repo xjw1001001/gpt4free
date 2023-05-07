@@ -1,0 +1,22 @@
+| task no | person 1 | person 2 | assoc_code | assoc_chn | positive/negative relationship | reasoning |
+| -- | -- | -- | -- | -- | -- | -- |
+| 2303 | 郭知章 | 哲宗 | 0404 | 官場關係（上司） | positive | 郭知章 served under 哲宗 as 殿中侍御史 |
+| 2303 | 郭知章 | 神宗 | 0404 | 官場關係（上司） | positive | 郭知章 investigated 神宗's 实录诬罔事 |
+| 2303 | 郭知章 | 吕大防 | 0407 | 政治對抗 | negative | 郭知章 requested to 贬治 吕大防 |
+| 2303 | 郭知章 | 徽宗 | 0404 | 官場關係（上司） | positive | 徽宗 promoted 郭知章 to 工部侍郎 |
+| 2303 | 郭知章 | 曾布 | 0406 | 薦舉保任 | positive | 曾布 recommended 郭知章 for 工部侍郎 position |
+
+| task no | person 1 | person 2 | assoc_code | assoc_chn | positive/negative relationship | reasoning |
+| -- | -- | -- | -- | -- | -- | -- |
+| 2304 | 仁宗 | 郭皇后 | 0901 | 家庭關係（籠統） | negative | 仁宗 and 郭皇后 had a conflict, leading to her 废后 |
+| 2304 | 仁宗 | 方可 | 0101 | 社會關係（籠統） | neutral | 方可 was mentioned as a condition for 郭皇后's return |
+| 2304 | 仁宗 | 阎文应 | 0701 | 醫療關係（籠統） | neutral | 阎文应 was sent to examine 郭皇后's health |
+
+| task no | person 1 | person 2 | assoc_code | assoc_chn | positive/negative relationship | reasoning |
+| -- | -- | -- | -- | -- | -- | -- |
+| 2305 | 郭泰亨 | 吕祖俭 | 0407; 0103 | 政治對抗; 社會交際 | negative; positive | 郭泰亨 supported 吕祖俭 when he was 贬韶州, but was also part of the opposing party |
+| 2305 | 郭泰亨 | 史弥远 | 0407 | 政治對抗 | negative | 郭泰亨 refused to follow 史弥远's wishes and resigned |
+
+| task no | person 1 | person 2 | assoc_code | assoc_chn | positive/negative relationship | reasoning |
+| -- | -- | -- | -- | -- | -- | -- |
+| 2306 | 郭纯中 | 黄庭坚 | 0203 | 學術交往 | positive | 郭纯中 studied under 黄庭坚 |

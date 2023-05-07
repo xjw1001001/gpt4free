@@ -1,0 +1,8 @@
+| task no | person 1 | person 2 | assoc_code | assoc_chn | positive/negative relationship | reasoning |
+| -- | -- | -- | -- | -- | -- | -- |
+| 32 | 于焘 | 吕夷简 | 0402; 0406 | 官場關係（平級）; 薦舉保任 | positive | 于焘 was called by 吕夷简 to discuss strategies, and his advice was followed, leading to a successful outcome. |
+| 32 | 于焘 | 仁宗 | 0404 | 官場關係（上司） | positive | 于焘 offered advice to 仁宗 about the succession, which was later followed, showing respect and loyalty. |
+| 32 | 于焘 | 英宗 | 0404 | 官場關係（上司） | positive | 于焘's advice about the succession was followed, and 英宗 ascended the throne, showing respect and loyalty. |
+| 33 | 于世封 | 欧阳修 | 0202; 0203; 0206 | 師生關係; 學術交往; 學術襄助 | positive | 于世封 met 欧阳修, who taught him about the way of writing, leading to 于世封's self-improvement and further learning. |
+| 34 | 士建中 | 石介 | 0203; 0204 | 學術交往; 學術主題相近 | positive | 士建中 was contemporaneous with 石介, and they were both respected scholars, with 士建中 being recommended by 石介. |
+| 35 | 上官冲 | 周慎 | 0103; 0301 | 社會交際; 朋友關係（籠統） | positive | 上官冲 and 周慎 went on a trip together, showing a friendly and social relationship. |

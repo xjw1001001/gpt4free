@@ -1,0 +1,9 @@
+| task no | person 1 | person 2 | assoc_code | assoc_chn | positive/negative relationship | reasoning |
+| -- | -- | -- | -- | -- | -- | -- |
+| 8 | 丁袗 | 安仁义 | 0601; 0603 | 軍事關係（籠統）; 軍事對抗 | negative | 丁袗 saw 安仁义 and others as rivals and they were executed due to jealousy |
+| 9 | 丁偃 | 朱长文 | 0102; 0203 | 同為……之成員; 學術交往 | positive | 丁偃 and 朱长文 both passed the imperial examination together |
+| 9 | 丁偃 | 金华 | 0502 | 記詠文字 | neutral | 丁偃 wrote a poem mentioning 金华 |
+| 9 | 丁偃 | 方中 | 0103 | 社會交際 | neutral | 丁偃 was selected after 20 years, 方中 is mentioned as a time reference |
+| 10 | 丁开 | 向士璧 | 0401; 0405 | 政治關係（籠統）; 政治奧援 | positive | 丁开 defended 向士璧's achievements and argued against investigating his expenses |
+| 11 | 丁尧 | 朱熹 | 0202; 0203 | 師生關係; 學術交往 | positive | 丁尧 studied under 朱熹 |
+| 11 | 丁尧 | 蔡元定 | 0301 | 朋友關係（籠統） | positive | 丁尧 and 蔡元定 were good friends |

@@ -1,0 +1,8 @@
+| task no | person 1 | person 2 | assoc_code | assoc_chn | positive/negative relationship | reasoning |
+| -- | -- | -- | -- | -- | -- | -- |
+| 2311 | 郭磊卿 | 杜范 | 0103; 0402 | 社會交際; 官場關係（平級） | positive | They were known as 端平六君子 together, indicating a social and professional relationship. |
+| 2311 | 郭磊卿 | 徐元杰 | 0103; 0402 | 社會交際; 官場關係（平級） | positive | They were known as 端平六君子 together, indicating a social and professional relationship. |
+| 2312 | 郭药师 | 王安中 | 0603 | 軍事對抗 | negative | 郭药师降金 after 王安中 killed 张觉, indicating a military conflict. |
+| 2312 | 郭药师 | 张觉 | 0602 | 軍事支持 | positive | 郭药师怨王安中 for killing 张觉, indicating a supportive military relationship with 张觉. |
+| 2313 | 许元 | 王尧臣 | 1001 | 財務關係（籠統） | negative | 许元多聚珍奇，以赂权贵，尤为王尧臣所知, indicating a financial relationship with negative connotations. |
+| 2314 | 许升 | 朱熹 | 0202; 0203; 0206 | 師生關係; 學術交往; 學術襄助 | positive | 许升从朱熹学, indicating a teacher-student relationship, and 朱熹深惜许升之卒, indicating a positive academic relationship. |

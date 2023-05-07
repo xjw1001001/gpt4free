@@ -1,0 +1,9 @@
+| [task no] | [person 1] | [person 2] | [assoc_code] | [assoc_chn] | [positive/negative relationship] | [reasoning] |
+| -- | -- | -- | -- | -- | -- | -- |
+| 46 | 文及甫 | 邢恕 | 0402 | 官場關係（平級） | positive | They worked together in the same position (馆职) |
+| 47 | 文彦博 | 王安石 | 0407 | 政治對抗 | negative | 王安石 disliked 文彦博 and tried to remove him from his position |
+| 47 | 文彦博 | 富弼 | 0103 | 社會交際 | positive | They were part of the same social gathering (洛阳耆英会) |
+| 47 | 文彦博 | 司马光 | 0103 | 社會交際 | positive | They were part of the same social gathering (洛阳耆英会) |
+| 49 | 文道南 | 姚铉 | 0301 | 朋友關係（籠統） | positive | They were friends (友善) |
+| 49 | 文道南 | 凌策 | 0202 | 師生關係 | positive | 凌策 studied with 文道南 when he was young (幼时尝往学焉) |
+| 50 | 应麟 | 文天祥 | 0901 | 家庭關係（籠統） | positive | 应麟 is the grandson of 文天祥 (文天祥从孙) |
